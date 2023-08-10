@@ -3,9 +3,9 @@ In this project, I utilized various tools and libraries to build a comprehensive
 
 **Project overview**
 
-* 1. Creating a speech recognition system using vosk
-* 2. Adding punctuation to the text transcript using recasepunc
-* 3. Summarizing the text using a huggingface summarization pipeline
+1. Creating a speech recognition system using vosk
+2. Adding punctuation to the text transcript using recasepunc
+3. Summarizing the text using a huggingface summarization pipeline
 
 
 **File overview**
