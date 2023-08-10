@@ -12,4 +12,5 @@ In this project, I utilized various tools and libraries to build a comprehensive
 
 * `Speech Recognition with Vosk and Summarization with HuggingFace transformers.ipynb` - the code to summarize text
 * `elonmusk.mp3` - a 47 second audio clip of Elon Musk talking about AI to test the model
-* `elonmusk.txt` - the full transcript of `elonmusk.mp3`
+* `elonmusk.txt` - the generated full transcript of `elonmusk.mp3`
+* `elonmusk_summary.txt` - the generated summary of `elonmusk.mp3`
